@@ -1,0 +1,13 @@
+{
+  "name": "udemy_graphql_server",
+  "version": "1.0.0",
+  "description": "to practice apollo-graphql-server",
+  "private": true,
+  "type": "module",
+  "author": "Malhar Bhuptani",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.10.3",
+    "graphql": "^16.6.0"
+  }
+}
