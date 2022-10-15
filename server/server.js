@@ -16,6 +16,7 @@ const resolvers = {
 };
 
 console.log("some super awesome functionality");
+console.log("added finishing touches...");
 
 const server = new ApolloServer({ typeDefs, resolvers });
 const { url } = await server.listen({ port: 9000 });
